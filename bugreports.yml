@@ -12,7 +12,8 @@
 - summary: |
     
   environment: |
-    
+    Яндекс Браузер 23.1.1.1114 stable (64-bit)
+    ОС Ubuntu 18.04 bionic (x86-64)
   steps-to-reproduce: |
     
   expected-result: |
