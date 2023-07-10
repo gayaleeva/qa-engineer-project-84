@@ -51,6 +51,7 @@ test-cases:
   - summary: |
       Заказ отправляется на сервер
     status: fail
+
 bugreports:
   - summary: |
       Неудобно располагаются кнопки переключения страниц
